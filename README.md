@@ -1,0 +1,9 @@
+This code was written in Matlab 2011b and may require at least that version to run properly.
+
+To run this code, please add everything in the TDOA folder to your Matlab path, then run the SimImpact script.
+
+Questions? Email me esender@ucla.edu
+
+- Eric Sender
+- Spring 2012
+- Masters of Engineering - Design Study
